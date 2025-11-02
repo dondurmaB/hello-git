@@ -1,7 +1,7 @@
 Cloning original repo
 
 Summary:
-Switched back to main from feature/summarize.
+Switched back to main from feature/summarize + switching to a new branch and merging.
 
 Insights:
 Adding insight.
