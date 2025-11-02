@@ -1,1 +1,7 @@
 Cloning original repo
+
+Summary:
+Switched back to main from feature/summarize.
+
+Insights:
+Adding insight.
